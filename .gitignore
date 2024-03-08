@@ -1,0 +1,7 @@
+.env
+prompts/__pycache__/
+.venv/
+__pycache__/
+mydatabase.db
+prompts/*.pyc
+.DS_Store
